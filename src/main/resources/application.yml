@@ -1,0 +1,6 @@
+kafka:
+  server: localhost:9092
+  producer:
+    id: producerServer
+server:
+  port: 8081
